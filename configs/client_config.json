@@ -1,0 +1,7 @@
+{
+  "BUF_SIZE" : 2048,
+  "listen_ip" : "192.168.31.50",
+  "listen_port" : 9999,
+  "remote_ip" : "192.168.31.50",
+  "remote_port" : 9877
+}
